@@ -51,3 +51,24 @@
 .popular_food_list img {
   width: 25px;
 }
+
+.explore_food_btn {
+  width: fit-content;
+  padding: 10px 20px;
+  margin: 80px auto 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: black;
+  border-radius: 20px;
+  border: none;
+
+  color: #fff;
+  cursor: pointer;
+}
+.explore_food_btn img {
+  width: 13px;
+  margin-left: 15px;
+}
