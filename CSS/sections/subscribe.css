@@ -45,6 +45,7 @@
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 46px;
 }
+
 .email_id_as_input {
   flex: 1;
   font-size: 16px;
